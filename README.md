@@ -5,7 +5,7 @@
 <a href="https://arxiv.org/abs/2505.17685"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
 <a href='https://miv-xjtu.github.io/FSDrive.github.io'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
 
-## Please pay attention to the official project, which is forked at: [https://github.com/MIV-XJTU/FSDrive](https://github.com/MIV-XJTU/FSDrive)
+## Please pay attention to the official project: [https://github.com/MIV-XJTU/FSDrive](https://github.com/MIV-XJTU/FSDrive)
 
 
 ## 📜 Citing
